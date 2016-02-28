@@ -6,15 +6,15 @@
 --                                              --
 --------------------------------------------------
 --                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
+--       Developers: @crazyboy10      --
+--     Support:  @crazyboy10    --
 --                                              --
 --------------------------------------------------
 
 do
 
 function run(msg, matches)
-  return 'Shayan 123 Hacker IM SUPER DEVELOPER :))' 
+  return 'hamed crazy boy :)' 
 
 end
 
